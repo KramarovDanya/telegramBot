@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CTmOUgpdJdMjCF6VfMGDEBoufmqGc4n8tl0Qaf256O2EK3pafu1Xzoy6JKDjhaMdKdZIbMzWTrLBSlC6xuE6zQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krama\\source\\repos\\TelegramBotArinaV2\\TelegramBotArinaV2\\TelegramBotArinaV2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krama\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\krama\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\krama\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
+    "C:\\Users\\krama\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

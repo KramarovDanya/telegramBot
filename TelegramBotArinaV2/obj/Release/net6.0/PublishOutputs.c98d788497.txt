@@ -1,0 +1,8 @@
+C:\Users\krama\source\repos\TelegramBotArinaV2\TelegramBotArinaV2\publish\TelegramBotArinaV2.exe
+C:\Users\krama\source\repos\TelegramBotArinaV2\TelegramBotArinaV2\publish\TelegramBotArinaV2.dll
+C:\Users\krama\source\repos\TelegramBotArinaV2\TelegramBotArinaV2\publish\TelegramBotArinaV2.deps.json
+C:\Users\krama\source\repos\TelegramBotArinaV2\TelegramBotArinaV2\publish\TelegramBotArinaV2.runtimeconfig.json
+C:\Users\krama\source\repos\TelegramBotArinaV2\TelegramBotArinaV2\publish\TelegramBotArinaV2.pdb
+C:\Users\krama\source\repos\TelegramBotArinaV2\TelegramBotArinaV2\publish\Newtonsoft.Json.dll
+C:\Users\krama\source\repos\TelegramBotArinaV2\TelegramBotArinaV2\publish\Telegram.Bot.dll
+C:\Users\krama\source\repos\TelegramBotArinaV2\TelegramBotArinaV2\publish\Telegram.Bot.Extensions.Polling.dll
